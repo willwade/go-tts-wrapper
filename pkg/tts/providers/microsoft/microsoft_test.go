@@ -1,4 +1,4 @@
-package aws_test
+package microsoft_test
 
 import (
 	"context"

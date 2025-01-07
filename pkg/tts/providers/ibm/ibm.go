@@ -1,4 +1,4 @@
-package ibm
+package tts
 
 import (
 	"context"
@@ -6,6 +6,7 @@ import (
 
 	"github.com/IBM/go-sdk-core/v5/core"
 	"github.com/watson-developer-cloud/go-sdk/texttospeechv1"
+	"github.com/willwade/go-tts-wrapper/pkg/tts"
 )
 
 // IBMProvider implements TTSProvider for IBM Watson

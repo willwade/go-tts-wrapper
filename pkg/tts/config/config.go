@@ -1,5 +1,5 @@
 // pkg/tts/config/config.go
-package config
+package tts
 
 import (
 	"encoding/json"

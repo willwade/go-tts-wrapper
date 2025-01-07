@@ -1,11 +1,8 @@
-package pkg
+package aws_test
 
 import (
 	"context"
 	"testing"
-
-	"github.com/Microsoft/cognitive-services-speech-sdk-go/common"
-	"github.com/Microsoft/cognitive-services-speech-sdk-go/speech"
 )
 
 func TestMicrosoftProvider(t *testing.T) {

@@ -1,4 +1,4 @@
-package ibm
+package tts
 
 import (
 	"context"

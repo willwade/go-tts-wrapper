@@ -1,4 +1,4 @@
-package pkg
+package aws_test
 
 import (
 	"context"
